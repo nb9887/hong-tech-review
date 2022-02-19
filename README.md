@@ -10,6 +10,7 @@
 SRP (Single Responsibility Principle) : 단일 책임 원칙 
 - 한 클래스는 하나의 책임만 가져야 한다.
 - 하나의 책임이라는 것은 모호하다.
+- 클래스나 모듈을 변경할 이유가 하나, 단 하나뿐이어야 한다는 원칙
 
 OCP (Open/closed principle) 개방 폐쇄 원칙
 확장에는 열려 있으나, 변경에는 닫혀 있어야 한다.
